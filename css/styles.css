@@ -798,11 +798,11 @@ a {
 
 @media screen and (min-width: 768px) {
   .block-showcase .grid {
-    grid-template-columns: 50% 50%;  
+    grid-template-columns: 50% 50%;
   }
 
   .block-showcase__image {
-    justify-self: right ;
+    justify-self: end;
   }
 
   .block-showcase__image > img {
